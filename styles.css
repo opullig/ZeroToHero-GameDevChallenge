@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&family=Young+Serif&display=swap');
+
+*{
+  font-family: 'Lato', sans-serif;
+  color: #FFF5E0;
+  
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Young Serif', serif;
+}
+
+body {
+  background-color: #141E46; /* Fundo preto (60%) */
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #C70039; /* Vermelho escuro para cabeçalho (10%) */
+  padding: 20px 0;
+}
+
+h1 {
+  font-size: 36px;
+  color: #FFF5E0; /* Texto branco para título */
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #FF6969;
+  
+}
+
+h3 {
+  font-size: 20px;
+  color: #FF6969; /* Amarelo para títulos menores */
+}
+
+p {
+  font-size: 18px;
+  color: white;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: #1d1d1d; /* Cinza escuro (30%) */
+  padding: 10px 0;
+}
